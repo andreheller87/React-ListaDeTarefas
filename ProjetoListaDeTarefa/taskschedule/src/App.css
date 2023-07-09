@@ -1,14 +1,14 @@
 .App{
     width: 40%;
     margin: 2em auto;
-    background-color: #394049;
+    background-color: #3f4752;
     border-radius: 5px;
     color: #fff;
 }
 
 .header{
     padding: 0.5em;
-    border-bottom: 1px solid #2c3035;
+    border-bottom: 1px solid #272a2e;
     text-align: center; 
 }
 .header h1{
